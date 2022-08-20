@@ -3,6 +3,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{" ",           "sb-memory",							10,		6},
 	{"",            "sb-volume",							 0,		3},
+	{"",            "sb-battery",							 5,		7},
 	{"",		"sb-internet",							 5,		2},
 	{"",            "sb-time",							60,		4},
 	{"", 		"sb-date",						     86400,		5},
